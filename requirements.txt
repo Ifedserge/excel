@@ -8,3 +8,10 @@ Webpack (impotrs/exports)
         - Prod
         Minified Code
 GIT
+
+    Production
+        1.0.0
+        --------
+    Development
+        1.2.2
+        -----------
